@@ -1,0 +1,5 @@
+{
+	"jumlah_berita":2,
+	"konten":"<h1>Daftar Berita Terbaru</h1><div class='berita'><h2>Covid-19 Global: Lonjakan Kasus Baru di Prancis, Inggris Disalip <br/><small>2021-03-23 00:26:30 | Kesehatan</small></h2><p>Laju penambahan jumlah kasus baru Covid-19 di Prancis meningkat meski negara itu telah memberlakukan lockdown yang ketiga kalinya sejak akhir pekan ke</p><p class='linkDetail'><a href='#4' class='linkBerita'>Detail</a></p></div><div class='berita'><h2>Penyebab Aplikasi Android Sering Error Hari Ini dan Solusinya <br/><small>2021-03-24 06:00:31 | Teknologi</small></h2><p>Sejumlah pengguna Android hari ini mengeluhkan beberapa aplikasi di perangkat miliknya mengalami error. Beberapa aplikasi yang terdampak di antaranya </p><p class='linkDetail'><a href='#5' class='linkBerita'>Detail</a></p></div>",
+	"titel":"Homepage"
+}
